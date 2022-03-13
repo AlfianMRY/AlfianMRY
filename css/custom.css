@@ -1,0 +1,19 @@
+header {
+  margin-top: -275px;
+}
+.header-text {
+  /* background: red; */
+  margin-top: 100px;
+}
+.header-text > img {
+  widht: 200px;
+  height: 200px;
+}
+.portfolio-img > img {
+  widht: 100px;
+  height: 100px;
+  margin: 0 auto;
+}
+.galery > img {
+  margin: 10px 0;
+}
